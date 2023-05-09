@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![LC's github stats](https://github-readme-stats.vercel.app/api?username=supercll&show_icons=true&theme=dracula)](https://github.com/supercll)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supercll&layout=compact&langs_count=8)](https://github.com/supercll)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supercll&layout=compact&langs_count=9)](https://github.com/supercll)
